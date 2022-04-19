@@ -105,30 +105,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
                 print("None card detected.")
                 
             }
-            
-//            if imageAnchor.referenceImage.name == "eevee-card" {
-//                if let pokeScene = SCNScene(named: "art.scnassets/eevee.scn") {
-//
-//                    if let pokeNode = pokeScene.rootNode.childNodes.first {
-//
-//                        pokeNode.eulerAngles.x = .pi / 2
-//
-//                        planeNode.addChildNode(pokeNode)
-//                    }
-//                }
-//            }
-//
-//            if imageAnchor.referenceImage.name == "oddish-card" {
-//                if let pokeScene = SCNScene(named: "art.scnassets/oddish.scn") {
-//
-//                    if let pokeNode = pokeScene.rootNode.childNodes.first {
-//
-//                        pokeNode.eulerAngles.x = .pi / 2
-//
-//                        planeNode.addChildNode(pokeNode)
-//                    }
-//                }
-//            }
    
         }
 
